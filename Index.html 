@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>bia o amor da minha vida </title>
+
+ <link rel='stylesheet' href='style.css'> <script src="script.js">
+  </script>
+  </head> 
+  <body>
+  
+  <div class="modal"> 
+  <div class="reactImage" id="reactImage"> <img src="https://photos.app.goo.gl/9WYq9qXbxnvpdB1W7" id="imgProfile">
+   </div> 
+   <p class="msg" id = "msg">o amor da minha vida</p> 
+   <div class="options"> <button class="btn" id="btnSim" onclick="mudaParaSim()" >Sim</button> <button class="btn" id="btnNao" onclick="mudaParaNao()">Não</button>
+    </div> <div>
+    <h1>vc chegou  assim do nada e eu nao esperava e nem queria nimguem e na minha cabeça  estava tudo perdido sem solução e meu coração era de outra pessoa mais vc sozinha e com esse seu jeitinho  foi me mostrando  o quanto  eu estava errado e msm passando  pelo que passou  msm quando tinha todos os motivos para desistir escolheu  ficar e me disse ei estou aqui com vc msm sabendo  q eu nao poderia estar e do nada um grande  acontecimento  em um sábado  eu realmente  achei q tinha te perdido  e vc novamente  me disse estou aqui e eu tomei  a decisão  de que queria vc e hj nao vivo sem vc de uma maneira  incrível  e nunca vista antes vc me mostrou q o amor traz  paz tranquilidade  e sim traz intensidade  e um turbilhões de emoções  mais com a certeza  de lutaremos  juntos e q um se apoiando  no outro a gente  consegue  e que principalmente  buscando  a deus e ele nos ajudará a abençoar  o nosso lar eu so tenho a agradecer  por tudo</h1></div>
+  </div>
+   </body> 
+   <footer> <p> para conhecer ela ou ele clique <a href="https://www.facebook.com/bia1396" target="_blank">bia ou </a> 
+ <a href="https://www.facebook.com/kaique.maque" target="_blank">kaique</a></p> </footer> 
+ </html>
+
+
